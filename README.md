@@ -33,5 +33,3 @@ One of my favorite features of this website is its clean UI, the ease and abilit
 **Q:** What is `memcached.php`?  
 **A:** This is for people using memcached as an object cache backend. It should be something like: `<?php return array( "server01:11211", "server02:11211" ); ?>`. Programattic generation of this file is recommended.
 
-**Q:** Does this support WordPress in multisite mode?  
-**A:** Yes, as of WordPress v3.5 which was released in December, 2012.
