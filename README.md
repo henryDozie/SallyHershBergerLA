@@ -1,13 +1,20 @@
-# WordPress Skeleton
+# SallyHershBergerLA
 
-This is simply a skeleton repo for a WordPress site. Use it to jump-start your WordPress site repos, or fork it and customize it to your own liking!
+This is the code base for an past E-Commerce site I developed in WP (sallyhershbergerla.com) I have excluded the media files since they will take up too much needless space. This is a custom site that was developed in WordPress.
 
+One of my favorite features of this website is its clean UI, the ease and ability of users to book appointments and the general overall feel of the website.
 ## Assumptions
 
 * WordPress as a Git submodule in `/wp/`
 * Custom content directory in `/content/` (cleaner, and also because it can't be in `/wp/`)
 * `wp-config.php` in the root (because it can't be in `/wp/`)
 * All writable directories are symlinked to similarly named locations under `/shared/`.
+
+
+#### Brief Visualization
+
+![Overview](./SallyHB.gif)
+
 
 ## Questions & Answers
 
