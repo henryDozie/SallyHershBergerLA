@@ -1,0 +1,3 @@
+url: v1.sallyhershbergernomad.client.tagonline.com
+require:
+    - cli-config.php
